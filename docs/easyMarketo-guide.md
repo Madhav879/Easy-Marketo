@@ -47,5 +47,5 @@ This tool uses data from the landing page (LP) to identify relevant links.
 - Also, assign the appropriate form(s) to the landing page, even if the form(s) is not being used.
 
 
-## 💬 Support or Feedback 
+## 💬 Feedback 
 For support or to provide feedback, click on the [**"Share Feedback"**](https://forms.office.com/r/FeR1fYQ53i) button available in the extension 😊.
