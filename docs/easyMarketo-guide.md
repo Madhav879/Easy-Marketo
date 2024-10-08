@@ -1,15 +1,19 @@
 # [EasyMarketo](https://chromewebstore.google.com/detail/easymarketo/aooojlnnppjpchpfjofohbgacpkelfpf) 🧭
 ## ✨ Overview
-The **EasyMarketo** is a Chrome extension designed to streamline the process of accessing Marketo programs and associated Salesforce campaigns directly from landing pages (LPs). By automating navigation to essential links, this extension saves time and enhances productivity for users working with Marketo and Salesforce.
+The **EasyMarketo** is a Chrome extension designed to streamline the process of accessing Marketo programs and associated Salesforce campaigns directly from landing pages. By automating navigation to essential links, this extension saves time and enhances productivity for users working with Marketo and Salesforce.
 
 ## 🪄 Features
+* **📝 Project Name Identification:**  Identifies and shows the project to which the landing page  belongs.
 * **🚀 Direct Navigation**: Quickly access the Marketo program associated with the current landing page.
 * **📊 Salesforce Campaign Access**: Instantly navigate to the Salesforce campaign linked to the landing page.
 * **👍 User-Friendly Interface**: Simple buttons for easy navigation without complicated searches
 * **💬 Feedback**: Share your thoughts on the extension by clicking the feedback link within the extension interface.
 
 ## 🔍 Why We Created This Extension
-In working with landing pages, two main tasks often proved cumbersome and time-consuming:
+In working with landing pages, three main tasks often proved cumbersome and time-consuming:
+
+### 📝 Project Name Identification
+Identifying the project name is helpful for coordinating between Marketo and Wrike. It allows us to easily find the corresponding project in Wrike since we use the same naming convention across both platforms, making project tracking more straightforward.
 
 ### 🔗 Navigating to the Marketo Program
 If you wanted to navigate to the Marketo program associated with a landing page, you had to:
@@ -31,7 +35,7 @@ Since Salesforce campaigns are often integrated with Marketo forms, this step wa
 
 ## 💡 How It Works
 * 🌐 Open any landing page (LP) created in Marketo.
-* 🖱️ Click on the extension icon, and it will automatically show you the buttons for navigating to the Marketo Program and Salesforce Campaign.
+* 🖱️ Click on the extension icon, and it will automatically show you the Program name and buttons for navigating to the Marketo Program and Salesforce Campaign.
 
 
 
@@ -39,7 +43,7 @@ Since Salesforce campaigns are often integrated with Marketo forms, this step wa
 
 This tool uses data from the landing page (LP) to identify relevant links.
 ### ⚠️ Important:
-- Ensure the SFDC Campaign ID is added to the LP during the build process, specifically in the UTM | Campaign value field within the Marketo editor.
+- Ensure the SFDC Campaign ID (ex: 7014z000001cXvyAAE) is added to the LP during the build process, specifically in the UTM | Campaign value field within the Marketo editor.
 - Also, assign the appropriate form(s) to the landing page, even if the form(s) is not being used.
 
 
