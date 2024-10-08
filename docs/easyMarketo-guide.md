@@ -48,4 +48,4 @@ This tool uses data from the landing page (LP) to identify relevant links.
 
 
 ## 💬 Feedback 
-For support or to provide feedback, click on the [**"Share Feedback"**](https://forms.office.com/r/FeR1fYQ53i) button available in the extension 😊.
+To provide feedback, click on the [**"Share Feedback"**](https://forms.office.com/r/FeR1fYQ53i) button available in the extension 😊.
