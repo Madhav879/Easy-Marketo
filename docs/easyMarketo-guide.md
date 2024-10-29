@@ -28,8 +28,11 @@ To check form registrations, you typically had to:
 
 Since Salesforce campaigns are often integrated with Marketo forms, this step was crucial, but it was also time-consuming to navigate to respective SFDC. The extension resolves this by providing a direct link. Clicking the **"SFDC Campaign Path"** button instantly takes you to the Salesforce campaign associated with the page, where you can view registration data and other important details.
 
+<!---
 ## 🚀 How to Install the Extension
 👉 Click this [**link**](https://chrome.google.com/webstore/detail/aooojlnnppjpchpfjofohbgacpkelfpf) to access the extension page, then simply click on **“Add to Chrome”**. Once added, 📌pin **EasyMarketo** to your extensions tab, and you're all set🎉.
+-->
+## Watch the Installation [Video ▶️](https://drive.google.com/file/d/1cjSrXsfex1OTX_2MpSXK8gIM9zC2oItk/view?usp=sharing) 
 
 ## 💡 How It Works
 * 🌐 Open any landing page (LP) created in Marketo.
