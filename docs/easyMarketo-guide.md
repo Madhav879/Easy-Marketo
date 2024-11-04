@@ -40,10 +40,11 @@ Since Salesforce campaigns are often integrated with Marketo forms, this step wa
 
 
 
-## 🛠️ Note to Automation Team:
+## 🛠️ General Note:
 
-This tool uses data from the landing page (LP) to identify relevant links.
-### ⚠️ Important:
+This tool relies on data from the landing page (LP). If an LP has a form but you don’t see the SFDC campaign link, it means the SFDC campaign ID wasn’t included during the LP setup. If you encounter such an LP, please share the link, and we’ll ensure it gets updated with the correct SFDC campaign ID.
+
+### Automation Team:
 - Ensure the SFDC Campaign ID (ex: 7014z000001cXvyAAE) is added to the LP during the build process, specifically in the UTM | Campaign value field within the Marketo editor.
 - Also, assign the appropriate form(s) to the landing page, even if the form(s) is not being used.
 
